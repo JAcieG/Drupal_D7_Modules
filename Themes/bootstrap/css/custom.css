@@ -1,0 +1,59 @@
+.square, .views-quicksand-container .rectangle{
+    border: medium solid;
+    float: left;
+    margin-bottom: 0.5%;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+    padding: 1%;
+}
+
+.views-quicksand-container .square {
+    min-width: 309px;
+    width: 29%;
+}
+
+.views-quicksand-container .rectangle {
+    min-width: 623px;
+    width: 58.5%;
+}
+
+.radio input[type="radio"], .radio-inline input[type="radio"], .checkbox input[type="checkbox"], .checkbox-inline input[type="checkbox"] {
+    display: none;
+    margin-left: -20px;
+    position: absolute;
+}
+
+.views-exposed-form .views-exposed-widget {
+    float: left;
+    padding: 0.5em 1em 0 0;
+    width: 620px;
+}
+
+.control-label {
+    float: left;
+}
+
+.control-label:hover {
+    color: red;
+}
+
+.container .jumbotron, .container-fluid .jumbotron {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.jumbotron {
+    padding-bottom: 0 !important;
+    padding-top: 0 !important;
+}
+.jumbotron {
+    padding-bottom: 0 !important;
+    padding-top: 0 !important;
+}
+
+.theme-default .nivo-controlNav {
+    margin-top: -50px;
+    padding: 0;
+    position: relative;
+    z-index: 10;
+}
